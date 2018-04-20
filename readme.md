@@ -10,7 +10,7 @@ Add the following to your "require" schema:
 
 ```
 "require": {
-     "priskz/fyler": "1.0.*"
+     "priskz/fyler": "~0.0.1"
 }
 ```
 
