@@ -2,6 +2,7 @@
     "name": "priskz/fyler",
     "description": "A SORAD service built to streamline file processing and handling.",
     "type": "library",
+    "license": "MIT",
     "authors": [
         {
           "name": "Zachary Prisk",
