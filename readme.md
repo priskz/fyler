@@ -14,6 +14,6 @@ Add the following to your "require" schema:
 }
 ```
 
-Run ```composer update```
+Run ```composer install```
 
 Add ```Fyler' => 'Fyler\Laravel\Facade',``` to the ```'aliases'``` aka facades in ```/app/laravel/config/app.php``` to register the newly added service facade.
