@@ -9,8 +9,6 @@ This package is a SORAD service for streamlining file processing and handling.
 Add the following to your "require" schema:
 
 ```
-#!json
-
 "require": {
      "priskz/fyler": "1.0.*"
 }
